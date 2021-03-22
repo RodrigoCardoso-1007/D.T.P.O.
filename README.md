@@ -11,4 +11,4 @@ sobre o acúmulo de peças eletrônicas nas ruas e os riscos causados pelo mesmo
 -  **JavaScript** 
 
 ## Instruções 
-Executar o arquivo  atoms.html  no navegador 
+Executar o arquivo  sitePi.html  no navegador 
